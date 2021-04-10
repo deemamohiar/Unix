@@ -23,3 +23,13 @@ If valid,
     we then take the element at idx 0 from the array to obtain the full name of the user
 
 ##Part III
+
+###Question 5:
+file name: part3.py
+Logs the username and hostname
+
+###Question 6:
+file name: part3.service
+In order to be able to run it, need to put the service file inside the /etc/systemd/system
+Also, need to put the script inside /usr/bin
+
